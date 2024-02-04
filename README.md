@@ -8,7 +8,7 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjjoe&layout=compact&theme=radical)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jeau9928)](https://solved.ac/jeau9928)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeau9928)](https://solved.ac/jeau9928)
 
 </div>
 
