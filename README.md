@@ -2,11 +2,15 @@
 
 ### Hi there 👋
 
+<a href="https://blog.naver.com/jeau6565"><img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/jeau6565"/></a>
+
 ![parkjjoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjjoe&show_icons=true&theme=tokyonight)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjjoe&layout=compact&theme=radical)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeau9928)](https://solved.ac/jeau9928)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=parkjjoe&theme=flat&column=7)](https://github.com/parkjjoe/)
 
 </div>
 
