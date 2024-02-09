@@ -4,6 +4,7 @@
 
 <a href="https://github.com/parkjjoe"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/parkjjoe"/></a>
 <a href="https://blog.naver.com/jeau6565"><img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/jeau6565"/></a>
+<a href="https://velog.io/@parkjjoe/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@parkjjoe/posts"/></a>
 
 ![parkjjoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjjoe&show_icons=true&theme=tokyonight)
   
