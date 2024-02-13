@@ -12,7 +12,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeau9928)](https://solved.ac/jeau9928)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=parkjjoe&theme=flat&column=7)](https://github.com/parkjjoe/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=parkjjoe&theme=flat&column=-1)](https://github.com/parkjjoe/)
 
 </div>
 
