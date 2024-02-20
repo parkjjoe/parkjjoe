@@ -8,7 +8,7 @@
 <a href="https://velog.io/@parkjjoe/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@parkjjoe/posts"/></a>
 
 Undergraduate Research Intern, Center for Neuromorphic Engineering, Korea Institute of Science and Technology  
-B.S. in Electronic and IT Media Engineering, Seoul National University of Science and Technology
+B.S. in Electronic and IT Media Engineering (Expected), Seoul National University of Science and Technology
 
 ![parkjjoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjjoe&show_icons=true&theme=tokyonight)
   
