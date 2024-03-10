@@ -11,8 +11,8 @@
 <a href="https://blog.naver.com/jeau6565"><img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/jeau6565"/></a>
 <a href="https://velog.io/@parkjjoe/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@parkjjoe/posts"/></a>
 
-**Techs**
-I'vs used at least once
+**Once I've Used**
+
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
