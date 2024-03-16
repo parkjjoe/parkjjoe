@@ -40,9 +40,9 @@
 
 ## **Stat**
 
-![parkjjoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjjoe&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjjoe&layout=compact&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeau9928)](https://solved.ac/jeau9928)
+|![parkjjoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjjoe&show_icons=true&theme=tokyonight)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjjoe&layout=compact&theme=radical)|
+|:---:|:---:|
+|[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeau9928)](https://solved.ac/jeau9928)|![parkjjoe profile](http://mazandi.herokuapp.com/api?handle=jeau9928&theme=warm)|
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=parkjjoe&theme=flat&column=-1)](https://github.com/parkjjoe/)
 
