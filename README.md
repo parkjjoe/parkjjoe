@@ -45,8 +45,6 @@
 |:---:|:---:|
 |[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeau9928)](https://solved.ac/jeau9928)|![parkjjoe profile](http://mazandi.herokuapp.com/api?handle=jeau9928&theme=warm)|
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=parkjjoe&theme=flat&column=-1)](https://github.com/parkjjoe/)
-
 <!--
 **parkjjoe/parkjjoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
