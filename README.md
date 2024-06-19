@@ -2,8 +2,8 @@
 
 ## **Jaewoo Park**
 
-- Undergraduate Research Intern, Center for Neuromorphic Engineering, Korea Institute of Science and Technology (2023.09.05. ~ )  
-- B.S. in Electronic and IT Media Engineering (Expected), Seoul National University of Science and Technology (2018.03.02. ~ )
+- Undergraduate Research Intern, Center for Neuromorphic Engineering, Korea Institute of Science and Technology (2023. 9. 5. ~ 2024. 7. 3.)  
+- B.S. in Electronic and IT Media Engineering (Expected), Seoul National University of Science and Technology (2018. 3. 2. ~ 2024. 8. 22.)
 
 ### Webs
   
