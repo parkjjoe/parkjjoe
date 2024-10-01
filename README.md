@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## **Jaewoo Park**
-
+- Foundry YE, Samsung Electronics DS (2024. 9. 27. ~ )
 - Undergraduate Research Intern, Center for Neuromorphic Engineering, Korea Institute of Science and Technology (2023. 9. 5. ~ 2024. 7. 3.)  
 - B.S. in Electronic Engineering, Seoul National University of Science and Technology (2018. 3. 2. ~ 2024. 8. 22.)
 
