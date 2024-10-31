@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 ## **Jaewoo Park**
-- **Samsung Electronics DS** (2024. 7. 29. ~ )
-  - Foundry Yield Enhancement, FAB Engineering & Operations (2024. 9. 27. ~ )
-- Undergraduate Research Intern, Center for Neuromorphic Engineering, Korea Institute of Science and Technology (2023. 9. 5. ~ 2024. 7. 3.)  
-- B.S. in Electronic Engineering, Seoul National University of Science and Technology (2018. 3. 2. ~ 2024. 8. 22.)
+- **Samsung Electronics DS** (2024. 7. 29. - )
+  - Foundry Yield Enhancement, FAB Engineering & Operations (2024. 9. 27. - )
+- Undergraduate Research Intern, Center for Neuromorphic Engineering, Korea Institute of Science and Technology (2023. 9. 5. - 2024. 7. 3.)  
+- B.S. in Electronic Engineering, Seoul National University of Science and Technology (2018. 3. 2. - 2024. 8. 22.)
 
 ### Webs
 <a href="mailto:jeau6565@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jeau6565@gmail.com"/></a>
